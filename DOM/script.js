@@ -37,5 +37,10 @@ my5thbtn.addEventListener('click',function(){
 })
 
 
+// single line chnage system , addEventListener
+document.getElementById('lastButton').addEventListener('click',function(){
+    document.body.style.backgroundColor='black'
+})
+
 
 
